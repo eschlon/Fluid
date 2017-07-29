@@ -1,6 +1,44 @@
 created: 20170129013206354
-modified: 20170129034446101
-tags: [[▽ Fluid Droplets]]
+modified: 20170702053826189
+tags: [[▽ Character]]
 title: ▽ Status
 type: text/vnd.tiddlywiki
 
+Using only [[▽ Aptitude]] and [[▽ Skill]] for building a character produces an interesting and complete system for representing characters. However combats tend to be relatively brutal and short. This is for two main reasons:
+
+* The maximum any character can have in a given facet is 5, meaning that sustained //Conditions// with severity greater than 5 will almost always put a character down.
+* //Conditions// and //Consequences// will generally be levied against the character's skills or aptitudes, making them less effective in subsequent tests, and giving a decided advantage to whoever draws first blood.
+
+▽ Status introduces two new derived facets, and a few additional talents, that help to mitigate against these and give players more options about how to deal with involuntary tax. They cannot be improved directly, and are instead derived from some set of the 6 core [[Aptitudes|▽ Aptitude]]. These are sometimes also called //Passive Aspects//, as they are typically not rolled directly, though they can be in some cases (e.g. disease, madness, etc.)
+
+! Health, Composure & Stamina
+
+//''Health''// is a character's overall hardiness and physical well-being. It is equal to the sum of their [[Vigor]], [[Agility]] and [[Perception]]. //Health// can be used to absorb //Conditions// and //Consequences// resulting from a failed test which involve these aptitudes, or of a physical nature.
+
+//''Composure''// is a character's overall calmness, mental stability and mental well-being. It is equal to the sum of their [[Focus]], [[Cunning]] and [[Empathy]]. //Composure// can be used to absorb //Conditions// and //Consequences// resulting from a failed test which involve these aptitudes, or of a non-physical nature.
+
+//''Stamina''// is a resource that measures how close your character is to exhaustion. It is equal to the sum of all six of the character's aptitudes. //Stamina// is used to absorb //Costs//, though it does so by default at a very poor exchange rate of ''5x Stamina'' per ''1x Cost''. Various talents can make this exchange more favorable, but even at this rate it is useful for triggering critical talents where either the cost cannot be paid or doing so would reduce a crucial facet.
+
+! Intitial Values & Advancement
+
+As mentioned above, these facets cannot be improved directly. They can only be increased by improving one or more of the 6 core [[Aptitudes|▽ Aptitude]] from which they dervie their rank, or occasionally via certain talents (c.f. [[▽ Heritage]]).
+
+! Passive Aspect Talents
+
+▽ Status also provides a set of basic talents that interact with these new facets, generally by improving the exchange rates involved. There are two talents that improve the exchange for physical and mental actions respectively (both requiring [[▽ Skill]]), as well as one which improves the exchange for any action (requiring [[▽ Craft]]).
+
+{{♣ Second Wind||_talent}}
+
+{{♣ Intense Study||_talent}}
+
+{{♣ Overtime||_talent}}
+
+Additionally there are two talents which allow you tax your //Health// and //Composure// directly to pay the tax of specific talents (both referencing both [[▽ Skill]] and [[▽ Craft]])
+
+{{♣ Everybody to the Limit||_talent}}
+
+{{♣ Midnight Oil||_talent}}
+
+Finally, both [[▽ Fight]] and [[▽ Magic]] make heavy use of the facets provided here. A concise list of all talents introduced by this droplet is provided below.
+
+{{||_talents_droplet}}

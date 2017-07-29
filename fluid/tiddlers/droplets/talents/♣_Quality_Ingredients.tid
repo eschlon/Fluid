@@ -1,10 +1,11 @@
 created: 20160119072522410
 creator: eschlon
-modified: 20170129045803910
+modified: 20170623160835462
 modifier: eschlon
 reqs: 4 Trade
+source: ▽ Craft
 tags: Talent Trade
 title: ♣ Quality Ingredients
 type: text/vnd.tiddlywiki
 
-You are adept at securing quality materials and ingredients at bulk prices. When acquiring materials you may pay ''1x Trade'' to ensure that they are [[♦ Refined]].
+You are adept at securing quality materials and ingredients at bulk prices. When acquiring materials you may pay ''1x Trade'' to increase the //Quality// of any acquired materials by one.

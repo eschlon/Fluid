@@ -1,6 +1,59 @@
 created: 20170124062334006
-modified: 20170124072234961
+modified: 20170622223012815
 tags: [[▽ Fluid Droplets]]
 title: ▽ Gear
 type: text/vnd.tiddlywiki
 
+Gear is all of your stuff. Gear on Talus is represented using the [[Boon|Boons & Gifts]] system defined in the [[Fluid Source]]. What follows is a more detailed discussion of how the specifics of this system apply to acquiring, using and working with character equipment.
+
+!! Quality & Pips
+
+|float-right|k
+|! Quality |! Description |
+| 1 | Worn / Used Equipment, Crude Weapons |
+| 2-3 | Normal Equipment, Typical Weapons & Armor |
+| 4-5 | Specialst Equipment (Lockpicks, Scalpels), Fine Quality Weapons & Armor |
+| 6-7 | High Quality Specialist Equipment, Master Crafted Weapons & Armor |
+| 8+ | Unique, Enchanted or Named Equipment, Weapons & Armor |
+
+Any piece of important equipment is represented by a single facet called //Quality// ($$Q$$) which determines how many pips it can provide in attempts in which it is optimally suited, or half (rounded down) if it is merely functional. This is the example from the source rules:
+
+<<<
+Jonah the barbarian possesses a fine steel axe ($$Q7$$), which grants a $$7p$$ bonus to his attack rolls. If he attempts to pry open a chest it will only contribute $$3p$$. If he attempts to use it to sing a song, it’s probably irrelevant.
+<<<
+
+Gear quality ranges from $$Q0$$ for broken, useless items to $$Q10$$ for the most unique and powerful pieces of equipment. In general use table on the right as a guide. 
+
+!! Traits
+
+While technically all entities in Fluid can have [[Traits|Traits]] there is no need to specify the obvious. Generally the primary function of a piece of gear is readily apparent, though in certain cases it may require specification. In these cases just list any special considerations as //traits//. A solid gold cerimonial sword may have trait such as //Made For Show//, which would indicate that you won't get full pips if you try to use it in a sword fight (but might get full pips if you try to sell it).
+
+Also since, in general, pieces of equipment aren't actually performing any actions, their //traits// are simply there to specify their purpose and design. They don't normally confer any [[advantage|Bonuses & Penalties]] or [[disadvantage|Bonuses & Penalties]] to the weilder.
+
+!! Properties
+
+A piece of equipment may also have other properties that make it special. You might decide that a certain type of weapon should get bonuses against certain types of opponents or armor, for example, or that gems or other forms of valuable currency should provide more than just some pips on //Resources// tests. 
+
+In these cases the special properties of a piece of equipment are represented as [[Talents|Talents & Masteries]], which have possession or use of the piece of equipment as a requirement. These kinds of talents are special enough to get their own name: //''Properties''//. Here's an example:
+
+{{♦ Valuable||_property}}
+
+Many //Properties// also tax the //Quality// of the piece of equipment. Taxed quality is simply wear to the piece of equipment, and can be fixed by either taking the item to an appropriate craftsman or making an appropriate crafting attempt.
+
+{{♦ Sharp||_property}}
+
+Certain talents can also allow you to offset wear to the equipment as a result of your skill. As an example:
+
+{{♣ Swordsman||_talent}}
+
+In addition to normal properties, some very powerful equipment can also possess //Eldritch Properties// -- esoteric powers and abilities beyond the normal. As an example:
+
+{{♦ Flame||_property}}
+
+!! Acquiring Equipment
+
+Characters generally acquire new equipment by making a //Resources// test to acquire the item, or by making some kind of crafting test to create it. In either case, the base difficulty of acquiring or bulding an item is equal to its //Quality//, though that may be modified by other factors (i.e. if the item is particularly rare, illegal, requires specialized skills to make). If the desired item has any particular //Properties// associated with it, the rank of those properties are also added to the difficulty. 
+
+For more details on crafting and creating items, see [[▽Craft]].
+
+{{||_sections}}

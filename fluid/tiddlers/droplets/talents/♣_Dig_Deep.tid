@@ -1,6 +1,6 @@
 created: 20160203055114474
 creator: eschlon
-modified: 20170129040309499
+modified: 20170621213410105
 modifier: eschlon
 reqs: 3 Vigor
 source: ▽ Aptitude
@@ -8,4 +8,4 @@ tags: Vigor Talent
 title: ♣ Dig Deep
 type: text/vnd.tiddlywiki
 
-You are adept at pushing your body to its absolute limits. You may pay ''1x Vigor'' to ignore all taxes on any //Vigor// based test.
+You are adept at pushing your body to its absolute limits. You may pay ''1x Vigor'' to ignore all accumlated taxes on any //Vigor// based test.
