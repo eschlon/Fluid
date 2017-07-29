@@ -1,10 +1,10 @@
-created: 20160112003520322
+created: 20160112003458676
 creator: eschlon
-modified: 20170622201844358
+modified: 20170129045803921
 modifier: eschlon
-reqs: 2 Labor
+reqs: 5 Labor
 tags: Talent Labor
 title: ♣ Elbow Grease
 type: text/vnd.tiddlywiki
 
-You're used to hard work and long hours of mental and physical exertion. You may choose to pay for the cost of any talent with //Labor// instead of their usual cost.
+You've trained yourself to perform at your peak right up to the point of total exhaustion. You may choose to pay ''5x Stamina''  instead of paying the cost of any talent with a Skill cost.

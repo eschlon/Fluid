@@ -1,11 +1,10 @@
 created: 20160111221404778
 creator: eschlon
-modified: 20170623160151004
+modified: 20170129045803933
 modifier: eschlon
 reqs: 4 Engineering, [[♣ Technical Writing]]
-source: ▽ Craft
 tags: Talent Engineering
 title: ♣ Reverse Engineering
 type: text/vnd.tiddlywiki
 
-Given a bit of time you can figure out how just about anything works. You may use [[♣ Technical Writing]] to develop schematics for other's designs or properties so long as you have an example item to study and disassemble. The item is destroyed in the process.
+Given a bit of time you can figure out how just about anything works. You may [[♣ Technical Writing]] to develop schematics for other's designs.

@@ -1,11 +1,10 @@
 created: 20160119070923130
 creator: eschlon
-modified: 20170623160523287
+modified: 20170129045803907
 modifier: eschlon
 reqs: 5 Trade
-source: ▽ Craft
 tags: Talent Trade
 title: ♣ Cutting Corners
 type: text/vnd.tiddlywiki
 
-Solid gold, gold plated copper... basically the same thing. You are adept at cutting the costs either by cutting the cost of labor, equipment or materials. Pay ''1x Trade'' to make any //Servicable// material //Optimal// for a crafting attempt.
+Solid gold, gold plated copper... Basically the same thing. You are adept at cutting the costs either by cutting the cost of labor, equipment or materials. Pay ''1x Trade'' to reduce the influence of rarity when calculating an items //Complexity// to $$+1$$.

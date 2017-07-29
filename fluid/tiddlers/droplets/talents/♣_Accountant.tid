@@ -1,10 +1,9 @@
 created: 20160111220446456
 creator: eschlon
-modified: 20170623161158024
+modified: 20170129045803912
 modifier: eschlon
-reqs: 1 Trade
-source: ▽ Craft
-tags: Trade Talent
+reqs: 4 Trade
+tags: Talent Trade Persuasion
 title: ♣ Accountant
 type: text/vnd.tiddlywiki
 

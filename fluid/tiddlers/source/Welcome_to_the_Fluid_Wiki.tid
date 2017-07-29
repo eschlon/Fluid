@@ -2,7 +2,7 @@ created: 20161228214259350
 creator: danielo515
 icon: fluid.svg
 list: 
-modified: 20170623022724531
+modified: 20170124070636352
 title: Welcome to the Fluid Wiki
 type: text/vnd.tiddlywiki
 
@@ -24,13 +24,9 @@ There’s no fudging in Fluid. If a decision comes down to a die roll, then the 
 
 In Fluid the players and the game master are collaborators in building the narrative and shaping the world, not competitors trying to beat each other.
 
-''Fluid is Flexible''
-
-The core mechanics are flexible and composable into a system fits the scene and the narrative. The mechanics can scale to add suspense and detail when needed, or get out of the way and let the scene flow naturally.
-
 ''Fluid is Layered''
 
-Fluid is composed of a set of core primitives and mechanics called [[Fluid Source]] that defines the system foundation. Source provides a simple, complete ruleset that can be used on its own, or as a framework to build on. Additional enrichment is provided by [[▽ Fluid Droplets]], which provide additional systems, talents, and tables.
+Fluid is composed of a set of core primitives and mechanics called [[Fluid Source]] that defines the system foundation. Source provides a simple, complete ruleset that can be used on its own, or as a framework to build on. Additional enrichment is provided by [[▽ Droplets]], which provide additional systems, talents, and tables.
 
 ''Fluid is Open''
 

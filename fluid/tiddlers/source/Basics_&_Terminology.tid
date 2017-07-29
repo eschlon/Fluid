@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118062319843
 icon: fluid.svg
-modified: 20170619171957612
+modified: 20170124063234410
 tags: Tests
 title: Basics & Terminology
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 Tests are handled by rolling a //''Pool''// of dice and counting //''Successes''// — dice  that have values that are above some //''Threshold''// — and then //''Bidding''// these successes against one ore more //''Difficulties''// to determine the //''Margin''// of success or failure. Let’s break this down:
 
 * You roll a //''Pool''// of ten-sided dice. The the number of dice is determined by your relevant facet(s).
-* You compare the value of each die to a //''Threshold''//. Dice with a value equal to or higher than the threshold are //''Successes''//. The default threshold is 6 (e.g. a 50/50 chance per die).
+* You compare the value of each die to a //''Threshold''//. Dice with a value higher than the threshold are //''Successes''//. The default threshold is 6 (e.g. a 50/50 chance per die).
 * You //''Bid''// your successes against a //''Difficulty''//. If a given goal has a difficulty of 4 you would need to bid 4 successes against that difficulty to succeed.
 * The number of success that are bid above or below the difficulty determines your //''Margin''//. Positive margin is good and indicates how well you performed, negative margin is bad and indicates how badly you failed.
 

@@ -1,11 +1,10 @@
 created: 20160112004255999
 creator: eschlon
-modified: 20170702053520586
+modified: 20170129045538961
 modifier: eschlon
 reqs: 3 Athletics
-source: ▽ Status
 tags: Talent Athletics
 title: ♣ Second Wind
 type: text/vnd.tiddlywiki
 
-Through steady breathing and practiced movements you are able to continue to function long after normal people would have collapsed. Whenever you use //Stamina// to pay for cost of talents involved in physical actions you may reduce //Stamina// cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Stamina// related talents (i.e. [[♣ Intense Study]], [[♣ Overtime]]), but cannot reduce the cost below 1.
+Through steady breathing and practiced movements you are able to continue to function long after normal people would have collapsed. You may spend ''1x Athletics'' to recover an amount of //Stamina// equal to your //Athletics//.
