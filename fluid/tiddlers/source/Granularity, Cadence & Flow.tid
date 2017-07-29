@@ -1,0 +1,63 @@
+caption: [img height=10 [fluid.svg]] {{!!title}}
+created: 20170619172719682
+icon: fluid.svg
+modified: 20170621175603633
+tags: Tests
+title: Granularity, Cadence & Flow
+type: text/vnd.tiddlywiki
+
+As hinted in the sections above, Fluid is extremely flexibile in how one represents tests, scenes and events. This flexibility is one of the cornerstones of the system and allows for the rapid, on-the-fly construction of mechanics that best fit with the narriative and scene. In Fluid this is called the //''Flow''// of an event. Being able to construct a good //''Flow''// for a scene takes pratice and experimentation, but the underlying principle is always:
+
+* A good flow keeps the focus on the narrative, and results in a memorable scene. Tests should always enhance the scene, add suspense or create interesting choices.
+
+When deciding how to represent a scene, there are three elements to consider //''Granularity''//, //''Cadence''// and //''Flow''//.
+
+//''Granularity''// defines the level of relevant detail of the scene. It will vary from scene to scene and depends heavily on what kind of narrative you're trying to tell. The granularity of a scene primarily determines the level of detail required to represent the entities involved as well as the specificty of declared goals.
+
+<<<
+The group encounters a roaming goblin war party. The goblins aren't expected to win this fight, as the players are all seasoned combatants, and despite their numbers, the goblins are relatively weak. The GM decides on a very //coarse// granularity, representing the 30 goblins as a single entity with two facets: 30 //''Ferocity''// to represent thier attack power and 10 //''Morale''// to represent their morale, and decides that the swarm can bring to bear at most 6 goblins against a single individual. 
+
+The players can make actions to wittle down the goblin's numbers (e.g. //Ferocity//) or thier resolve (e.g. //Morale//).
+<<<
+
+<<<
+Johnas is preparing to engage in a epic duel with an evil bandit lord. This is a set piece encounter and the tension is high. The GM decides to represent this at a very //fine// granularity. He represents the villan with a fully fleshed out set of aptitudes and relevant skills and talents. This will be a blow-by-blow scene, with specific goals and detailed narration.
+<<<
+
+<<<
+The party is travelling through the wilderness to an ancient shrine that only opens on the full moon. Since they're under time pressure and the woods are crawling with trolls the GM decides that this would make an interesting test. He might represent it very coarsely, as a single test with a fixed difficulty, or very finely, with several independent tests for each major leg of the journey or obstacle along the way.
+<<<
+
+<<<
+Fin is haggling with a local merchant for sensitive information The GM might decide to just narrate past the scene, if it is unimportant, represent it as a single test, with Fin's success or failure dictating the quality and accuracy of the information, or play it out as a debate with each side offering arguments, favors (and blackmail) to get the upper hand.
+<<<
+
+//''Cadence''// defines the overall pacing of the scene. This primarily dictates how many tests are going to be made. A given scene is primarily important for its //narrative// and secondarily for its //consequences//.  If a scene has no interesting narrative, it should generally have a quick cadence, as there's no point rolling a bunch of dice just to figure out how something turns out. If the narrative is interesting; however, a slower cadence gives the players and GM more time to evolve and develop the narrative.
+
+<<<
+Johnas is crafting a might sword. He's already gathered the ingredients and located a suitable forge. The quality and outcome of the resulting weapon is important, so a test is called for, but there's no real narrative here, and thus no need to break this down further.
+<<<
+
+<<<
+Lukas is performing critical surgery on a badly wounded soldier. If the outcome is largely unimportant to the narrative this could be handled with a simple test. If the soldier has important information that the group needs, or is infected with an eldritch disease that the group is aiming to cure then taking it at a slower cadence may both add to the suspense and provide time to further develop the narrative around the soldier's ailment.
+<<<
+
+//''Flow''// defines the way in which the various tests, goals, consequences and narriative segments of a scene fit together. The best flow happens when the GM presents the scene, allows the players to discuss how they will go about handling the various obstacles, and then collaborates with the players to build an appropriate flow. A well flowing scene provides rich narrative, exciting content and memorable consequences.
+
+<<<
+The party finds themselves defending the king's keep from an army of trolls. The gate is open, and the guards on the parapets are dead or overrun. After a brief disucssion, the group decides to send Fin, the most agile of the group, to scale the inner wall, fight his way along the parapets and activate the lever to close the gate. Meanwhile Lukas and Johnas will take point at the open gate and hold back the tide. This translates nicely into a coherent flow.
+
+The GM decides to represent each step of Fin's actions as a separate test. 
+
+* He sets the difficulty of scaling the wall at 5 and notes that success or failure will modify the difficulty of fighting along the troll-laden parapets by the margin (If you get up quickly the trolls won't have noticed your ascent and you may be able to run past).
+* The fight along the parapets is set at a base difficulty of 15, and is noted as cumulative. Fin will eventually make it across (or be rendered unconscious), but it's unlikely that he'll do it in a single roll. He'll have to wittle away at the difficulty to succeed.
+* The lever is simple, and so no test is needed if Fin reaches it in 3 actions. On the 4th turn one of the trolls breaks the handle off, making it a difficulty 4 obstacle.
+
+Between each of Fin's actions, the GM decides to cut back to Johnas and Lukas, which start off facing a difficulty of 6 to hold back the throng of angry trolls. For each round after the difficulty increases by 2.
+<<<
+
+<<<
+The group has comandeered a small fishing schooner from the local docks and are nearly at sea when they catch sight of a royal frigate chasing them down. They know that they can't outrun the warship, and decide that they're going to try to turn inland and navigate the dense reefs and shoals on the cost to evade the larger vessel. Fin has the best eyesight, and heads to the crow's nest to call out the oncoming rocks and find a passage through. Lukas, who grew up with the sea, takes the helm and starts to turn the ship toward the dangerous reef. Johnahs, the strongest, runs out to the main deck and takes to the ropes to manage the sails.
+
+The GM decides that the frigate, while somewhat larger, is not incapable of navigating the reef, but isn't sure if their captain is willing to risk the vessel to recover a fishing boat. He decides the difficulty of navigating the reef is 13 and the test is collaborative. Fin, Lukas an Johnas can each to their part toward successfully piloting their ship through the narrow passages. He assigns an additional goal with a difficulty of 3 for escaping the frigate. If the group can put up 13 successes they'll successfully pass through the reef and the GM will make a roll to see if the frigate also manages to chase them. If they manage 16 successes, the frigate pilot will veer off and stop the chase, intimidated by their skillful display of sailing skills.
+<<<

@@ -1,0 +1,40 @@
+caption: [img height=10 [fluid.svg]] {{!!title}}
+created: 20170118062522178
+icon: fluid.svg
+modified: 20170621182957521
+tags: Tests
+title: Difficulty & Visibility
+type: text/vnd.tiddlywiki
+
+Some tasks are more difficult than others. The difficulty of achieving a particular goal is represented by the number of successes required to achive the goal. Consult the table below for general guidelines in setting difficulty.
+
+|float-right|k
+|! Difficulty |! Description |! Notes |
+| ''1-2'' | Trivial | An unskilled individual can accomplish this reliably and quickly |
+| ''3-4'' | Easy | A skilled individual can accomplish this reliably and quicly |
+| ''5-7'' | Challenging | Traning, help, time and/or good equipment is required to accomplish this reliably |
+| ''8-9'' | Hard | Even well trained professionals will fail without help |
+| ''10+''| Complex | This will almost certainly fail without planning, strategy and teamwork |
+
+Try to set the difficulty of a given goal based soley on a reasonable narrative difficulty of that goal. This can seem somewhat problematic for setting a good challenge, as assistance and talents can often make even the most monumental difficulty values achievable. However, remember that an individual often has multiple simultaneous goals, and only one action. Forcing a player to choose where to bid her successes often makes for a more interesting scene than setting some incredible difficulty.
+
+For tasks that are reasonably [[collaborative|Help & Collaboration]] (e.g. the entire group is trying to accomplish the same goal, and are bound by the consequences if they fail), it it also reasonable to estimate the difficulty as above and then multiply that by the number of involved participants.
+
+In addition to the value, difficulty can also be //''Visible''// or //''Hidden''//. The difficulty of a test is generally //''Visible''//, meaning that players can expect that the number of successes needed to achieve a given goal will be announced before any dice are rolled. However; in some cases the Difficulty may be //''Hidden''// for reasons of suspense or lack of information (e.g. looking for traps, passively noticing an ambush).
+
+The difficulty of a given goal may also be either //''Static''//, //''Dynamic''// or both.
+
+* //''Static Difficulty''// is used when the outcome is dependent on whether the character performed well enough to overcome some obstacle: picking a lock, crafting a weapon, deciphering a text.
+* //''Dynamic Difficulty''// is used whenever the outcome is dependent on whether the character performed better than some other entity: dodging an attack, playing chess, winning a race. 
+
+Fluid has no real notion of opposed rolls; however, in the case of a contest between two entities the actual final outcome often comes down to how many successes are bid on each side. In these cases both sides bid their dice in secret and then reveal them to determine the outcome, unless specific talents allow one side to peek at the other.
+
+<<<
+Jonah and Fin have a duel to determine who is the better swordsman. Jonah bids 7 successes, Fin bids 4. Jonah wins by a margin of 3, and Fin loses by an equal margin. As the winner, Jonah gains narrative control of the outcome and has 3 dice worth of margin to push recounting of events.
+<<<
+
+Some tests may have both static and dynamic difficulty.
+
+<<<
+Fin (6 Successes), Jonah (7 Successes) and Lukas (3 Successes) are running a grueling obstacle course (Static Difficulty 5). They all bid all of their successes toward their goal of winning the race. Both Fin and Jonah finish the race, with Jonah beating Fin to the finish line by a margin of 1. Lukas fails to complete the course entirely by a margin of 2.
+<<<

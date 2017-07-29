@@ -1,0 +1,27 @@
+created: 20170707061916169
+modified: 20170707062507747
+tags: $:/tags/ViewTemplate
+title: _properties
+type: text/vnd.tiddlywiki
+
+\define _view(label)
+<hr />
+<table>
+  <tr>
+    <th>Related Properties</th> 
+    <th>Requirements</th>
+    <th>Source</th>
+  </tr>
+<$list filter="[tag[$label$]sort[reqs]]">
+  <tr>
+    <td><$link>{{!!title}}</$link></td>
+    <td>{{!!reqs}}</td>
+    <td>{{!!source}}</td>
+  </tr>
+</$list>
+</table>
+\end
+
+<$list filter="[is[current]tag[♦ Properties]]">
+  <$macrocall $name="_view" label={{!!title}} />
+</$list>

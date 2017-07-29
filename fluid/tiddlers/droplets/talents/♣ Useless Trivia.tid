@@ -1,0 +1,17 @@
+created: 20160111174851429
+creator: eschlon
+modified: 20170621195218903
+modifier: eschlon
+reqs: 4 Scholarship
+source: ▽ Skill
+tags: Talent Scholarship
+title: ♣ Useless Trivia
+type: text/vnd.tiddlywiki
+
+Academic study has made you a trove of useless trivia. When a fact is needed there is a chance that you already know something about it. Pay ''1x Scholarship'' and narrate a plausible story about how you came across the information. The GM should set a hidden difficulty modified by the plausibility of your narration and you can make a scholarship test to determine the outcome.
+
+|!Margin |!Result|
+| 3+ |You know the answer off the top of your head.|
+| 1-2 |You know where to get the answer locally in a few days.|
+| 0-1 |You know where to get the answer, but it will require travel or difficulty.|
+| Failure |As with the above, at least that’s what the GM tells you.|
