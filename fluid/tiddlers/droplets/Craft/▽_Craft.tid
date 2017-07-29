@@ -1,6 +1,99 @@
 created: 20170124062342173
-modified: 20170124072246360
-tags: [[▽ Fluid Droplets]]
+modified: 20170707072702298
+tags: [[▽ Character]]
 title: ▽ Craft
 type: text/vnd.tiddlywiki
 
+Sometimes it's useful to take some time away from adventuring around the countryside and build something. //▽ Craft// provides five new skills, a host of new talents, and describes a coherent system for inventing and creating new items and equipment.
+
+! The Anatomy of an Item
+
+Useful items in Fluid are entites that are represented by their //Quality//, //Traits// and //Properties//. For detailed discussion of how these different elements work together see [[▽ Gear]]. When crafting an item theset three components, particularly //Quality// and //Properties// are important in determining the difficulty of creating or inventing the item.
+
+! Setting the Difficulty
+
+It can be hard to decide how to set the difficulty of a crafting attempt. In general, the following guide table provides a good way of deciding just how hard a given crafting effort will be.
+
+; Rarity: Rare items are often rare for a reason
+: Ubiquitous | Common | Uncommon | Rare | Unique
+; Flaw Tolerance: A dull knife is still a knife, a flawed cannon is dangerous
+: No Impact | Diminished | Limited | Unreliable | Useless
+; Construction: Nails are less complex than watches
+: Simple | Composite | Complex | Elaborate | Eldritch
+
+<<<
+William the weaponsmith decides to try his hand at creating a few weapons for his shop. He decides to craft a Long Sword (Common, Diminished, Composite: $$1+1+1 = 3$$) and a musket (Rare, Unreliable, Complex: $$3+3+2 = 8$$).
+<<<
+
+Additionally, as with all tests, there's no need to worry about a test if the result is not going to be narratively interesting. If a skilled blacksmith needs to make a box of nails just narrate past it.
+
+! Quality & Properties
+
+Succeeding at a crafting test results in the creation of the item with a //Quality// of 1. It is at this stage that the crafter can start to enhance the item by increasing its //Quality// or by giving it special //Properties//. 
+
+As with any test, the //Margin// of success is the indicator of the degree of embellishment allowed. Successes in the margin can either be exchanged for //Quality// or to buy //Properties// (most of which add a fixed a cost above the items //Quality//).
+
+<<<
+William rolls to craft his Long Sword (//Difficulty// 3) and rolls 7 successes. He succeeds in crafting a $$Q1$$ Long Sword, and has 4 successes left over in his //Margin// to enhance the weapon. He uses using two successes to increase it to a $$Q3$$ Long Sword, and spends remaining two to give it the $$+2$$ [[♦ Sharp]] property.
+<<<
+
+! Tools & Materials
+
+Crafting is handled as a test and like all tests it can benefit from equipment. For most crafts there are two types os equipment that matter: //Tools// and //Materials//.
+
+//''Tools''// are simply the necessary tools of the trade required to create the item. As per [[Fluid Source]], characters without appropriate tools will suffer a double difficulty penalty (it's very hard to make a sword without a hammer and anvil), and characters with appropriate tools benefit from the //Quality// of thier tools on their crafting attempt.
+
+//''Materials''// are just another item (with the trait //Material//), and represent the necessary material required to construct the item (e.g. metal, wood, stone, bone). The crafting attempt will simply automatically fail if the crafter doesn't have any appropriate materials (you can't make a sword out of noodles). 
+
+Assuming that the crafter does have an appropriate set of materials they may attempt to create the item, and the //Quality// and appropriateness of the used materials determines the maximum //Quality// of the resulting item.
+
+* Items constructed of //Optimal// materials may have a maximum quality equal to the quality of the material.
+* Items constructed of //Serviceable// materials may have a maximum quality equal to half the quality of the material (rounded down).
+
+<<<
+William wants to construct a short sword. He checks his inventory and has a few $$Q4$$ steel ingots, a $$Q5$$ Mammoth bone and a bolt of fine $$Q7$$ silk. He can't make a sword out of silk, and he used the servicable bone he'd end up with a $$Q2$$ sword at best. Using the steel is the best option, allowing the creation of a possible $$Q4$$ weapon.
+<<<
+
+//Materials// are, obviously, expended by the crafting attempt, typically even if the attempt fails, though as with all skill failures in Fluid the details are left up to the winner (in this case the GM).
+
+! Esoteric Items & Enchantments
+
+In addition to weapons, armor, tools and other mundane equipment, characters can also produce [[Esoteric Items]] or imbue high quality equipment with supernatural [[Enchantments]]. The process is much the same as with normal items, with a few differences:
+
+* Esoteric items are always of //Eldritch// construction (+4), are almost always either //Rare// or //Unique// (+3-4), and often //Unreliable// or //Useless// (+3-4) if flawed. This makes them exceedingly difficult to craft, with //Difficulty// generally ranging from 10 to 12.
+* If an esoteric item is to do anything useful it needs to have an //Enchantment//, which can be of very high rank.
+
+These facts conspire to make the number of successes required to actually produce such an item extreme. While it is possible, albeit unlikely, that a master artisan with a large number of specialized talents may be able to pull out all the tricks to create a lesser esoteric item, doing so is both costly and difficult without appropriate training. Luckily characters can acquire such training either by finding an appropriate crafter to offer them apprenticeship or by developing their own Esoteric Craft through experimentation and a great deal of effort.
+
+There are a large number of Esoteric Crafts, all of them, however, have the following things in common:
+
+* They define what kind of esoteric items the crafter is capable of creating
+* They allow the crafter to provide a catalyst, in addition to any necessary materials which can provide a significant bonus to the attempt. 
+
+{{♣ Alchemy||_talent}}
+
+! Acquiring Properties
+
+//Properties// are very powerful, and as such are generally the well-kept secret of the artisan who invented them. Learning new properties requires that the character either learn the //Property// from someone who has mastered it (e.g. its inventor, or one of his apprentices), acquire the notes and design for the //Property// or invent it themselves. 
+
+Acquiring or inventing new mundane properties is difficult, and is in the domain of //Engineering//, which provides a number of talents to assist in the process. Acquiring a new mundane property requires the character to succeed at an //Enginering// attempt with a difficulty proportional to the //Rank// of the //Property//. For inventing entirely new properties consult the consult the guide on [[▽ Designing Properties]].
+
+Enchantments are effectively spells and are learned and invented using //Scholarship//, which provides a number of talents to assist in the process. Aside from the different skill used, the process is the same as the acquisition of mundane properties. For inventing new enchantments consult the guide on [[▽ Designing Powers]] in [[▽ Magic]].
+
+! Vocational Skills
+
+Crafting relies primarily on the [[Vocational Skills]], with most item creation done through either [[Crafting]], [[Engineering]] or [[Artistry]], depending on the nature of the item. These skills are essential to a master artisan and serve as pre-requisites to a number of special //Talents// that can assist the crafter in their art.
+
+* [[Crafting]] has a strong focus on increasing //Quality// and being frugal with raw materials. It is used for creating items out of raw materials and serves as the base skill for artisans such as Smiths, Carpenters and Leatherworkers. 
+* [[Engineering]] has a strong focus on design and functionality. It is used to design structures, and to design and build complex or precise machinery and serves as a base skill for artisans such as Watchmakers, Tinkers and Locksmiths.
+* [[Artistry]] has a strong focus on making items beautiful, valuable and desirable. It is serves as a base for artisans such as Chefs, Painters, and Jewelers.
+* [[Labor]] has a strong focus on increasing efficiency and managing efforts. It serves as a base for trades such as Farming as well as serving as the core skill for overseeing large manufacturing or construction efforts.
+* [[Trade]] has a strong focus on the business of buying and selling materials and finished goods. It serves as the basis for professions such as Merchants and Shopkeepers.
+
+These skills and their associated talents are designed to complement each other, and artisans with ability at more than a single skill will benefit. See the individual skills and their associated talents for more information.
+
+! Vocational Talents
+
+▽ Craft introduces 25 new talents, 5 for each skill, meant to aid or augument the overall crafting process. In addition to these skill-based talents, crafters may purchase //Masteries// in their specfiic craft (e.g. //Weapon Smith//, //Armor Smith//, //Leatherworker//) which grant them the usual //+1t// bonus for Mastery when working in their chosen profession.
+
+{{||_talents_droplet}}

@@ -1,5 +1,5 @@
 created: 20170124062309582
-modified: 20170129044558615
+modified: 20170621200446368
 tags: [[▽ Character]]
 title: ▽ Skill
 type: text/vnd.tiddlywiki
@@ -46,6 +46,6 @@ When initially making a character select one //Primary Skill//, two //Secondary 
 //Skills// are advanced by spending an amount of //Experience// equal to the rank to be gained. See the table for more details.
 
 ! Skill Talents
-This droplet defines a total of 70 new [[Talents|Talents & Masteries]] providing five talents for each skill. A full consise list of talents introduced by this droplet is given below:
+This droplet defines 70 new [[Talents|Talents & Masteries]], 5 for each skill. To view the associated talents and their requirements for each skill visit the appropriate skill page. A consise list of the talents introduced specifically by this droplet is given below.
 
 {{||_talents_droplet}}

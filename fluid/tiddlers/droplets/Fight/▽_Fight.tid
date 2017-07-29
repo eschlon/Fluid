@@ -1,6 +1,27 @@
 created: 20170124062338168
-modified: 20170124072240585
-tags: [[▽ Fluid Droplets]]
+modified: 20170703001500899
+tags: [[▽ Character]]
 title: ▽ Fight
 type: text/vnd.tiddlywiki
 
+Conflicts happen, and when diplomacy fails they can sometimes come to blows. In Fluid there is no fundamental difference between a debate, a particularly furious haggling session and a fight. Combat can be handled at a general level with the skills and talents available in [[▽ Skill]] or at a more granular level by defining some specific //Combat// skill coupled with some setting-specific talents. This droplet provides 5 new skills and a host of new talents to provide a more nuanced approach to beating up opponents and handling being beaten up.
+
+! Combat Skills
+
+Seasoned combatants rely on the five core combat skills, which define the charaters compentence at various areas of combat prowess.
+
+* [[Armor]] represents the character's skill in wearing and maximizing the utility of worn armor as well as utilizing defensive armaments such as shields.
+* [[Marksmanship]] represents a character's skill at using long ranged weapons including bows, crossbows and firearms.
+* [[Melee]] represents a character's skill at using close-range martial weapons. It includes using a variety of martial weapons including axes, blunt weapons, close weapons, hafted weapons, flails, fencing weapons and swords.
+* [[Throwing]] represents a character's skill at using ranged ammunition that relies upon the character's body, rather than a mechancial device such as a bow or rifle, to aim and use such as javelins, throwing axes and darts.
+* [[Unarmed]] represents a character's skill in fighting without formal weapons, as well as their general situational awareness and ability to get out of the way of blows. It includes skill in pugilism, martial arts, boxing, street fighting and similar combat styles.
+
+These skills, and their associated talents, are not meant to be used in isolation. Characters with significant investment in multiple paths are generally more capable and have more options when faced with a fight.
+
+! Combat Talents
+This droplet defines 25 new talents, five for each of the new skills. Additionally it provides a set of talents that enhance a warrior's ability to use their most important tools: their weapons and armor. This droplet divides weapons into classes based on their //Style// of use as well as their damage profile, providing talents to ehance these individually.
+
+
+
+
+{{||_talents_droplet}}

@@ -1,12 +1,12 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118062551688
 icon: fluid.svg
-modified: 20170124063201556
+modified: 20170621182550757
 tags: Tests
 title: Success & Failure
 type: text/vnd.tiddlywiki
 
-Fluid defines success and failure primarily as //''who gets narrative control of the outcome''//.
+Fluid defines success and failure primarily as //''who gets narrative control of the outcome''//. That being said, any success or failure should be handled as a negotiation, there are a host of talents and other abilities that can help to mitigate failure or bolster success. However, generally:
 
 If you succeed, you get to drive the narration:
 
@@ -20,4 +20,18 @@ If you fail, your opponent (or the GM) gets to narrate the result, which can be 
 * You achieve //''part of your goal''// but //''suffer a Condition or Consequence equal to your margin of failure''//
 * You achieve //''part of your goal''// but //''something unexpected (and often undesirable) happens.''//
 
-When you have narrative control, you put yourself in the GM’s role. Remember the goal is to make a memorable scene, not just always get your way.
+At any point during the narration the other involved parties can also chime in to collaborativly build the result. Remember that while you have narrative control, that doesn't necessarily mean you get to dictate exactly what happens. You get put yourself in the GM’s role, and if you've ever been a GM before, you'll know that that means you only get to direct, not to dictate. The goal is to make a memorable scene, not just always get your way.
+
+<<<
+Jonas delivers a heavy blow with his axe against a berserking orc. Breaking past its defenses he succeeds in his test and gets narrative control and delivers a 7 die condition to the orc. He narrates that he swings his axe high, striking it above the shoulder and taking its head clean off. 
+
+The orc; however, has other ideas. He wears a set of strong enchanted pauldrons that have a property that allows him to mitigate a portion of incoming damage. He uses the pauldrons to absorb 5 of the incoming damage and has sufficient health to absorb the other two easily. The GM narrates that the as the axe slides along the orc's shoulder Johnas can feel it slowing, as if pushing through thick resin and he sees a dim glow emanating from the orc's pauldron. The axe bites the orc deeply, but not fatally in the collar bone.
+<<<
+
+Likewise, if you are suffering a failure, you generally lose partial control over your character for a time. You can and should be looking through your talents and options to mitigate the consequences you're about to face, but you can't simply argue your way out of the results. 
+
+<<<
+Lukas and Fin are having an arguement about whether the group should take the north pass or the eastern road to their destination. They decide to resolve their differences with a test. Fin argues that the north pass is  the shorter distance and that since it's early summer it should offer no serious difficulties due to weather or climate. Lukas argues that the eastern road is well paved, and that the north pass is crawling with goblins this time of year. Johnas, with no real stake in the matter agrees that he has encountered many roaming goblins in the mountains this time of year, offering a bit of assistance to Lukas. 
+
+The dice are rolled and Lukas wins by a hair. He narrates that after intense dicussion the group agrees to take the eastern road. Fin chimes in and says that while he still thinks the north pass is the faster way, he does have to agree that a goblin ambush could add a significant amount of time to the journey. The party heads east, Fin grudgingly accepting that they've made the best decision.
+<<<

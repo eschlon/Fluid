@@ -1,6 +1,30 @@
 created: 20170124071656006
-modified: 20170129034437144
-tags: [[▽ Fluid Droplets]]
+modified: 20170623172823706
+tags: [[▽ Character]]
 title: ▽ Prestige
 type: text/vnd.tiddlywiki
+
+Adventurers are needy folk, and often find themselves in the middle of a town looking for some particular goods, services or professional assistance. This is often handled by a short narration and an exchange of money; however, it can sometimes be interesting to give the players an opportunity to add something interesting to the world. 
+
+▽ Prestige presents a pair of new //Facets// representing the character's ability to get the things that they want and the people that they need in a narratively interesting way. It also provides a blueprint for adding additional facets to represent the character's notoriety, status or rank in narratively important groups or organizations.
+
+! Connections & Resources
+
+''//Connections//'' represents a character's reputation, social connections and ability to locate people. It ranges from $$0d$$ to $$10d$$. It is used when a character wishes to recruit a ally, locate an artisan or secure a professional for some service. On a successful //Connections// test, the player making the roll is responsible for describing and introducing the person in question as well as narrating how they found the individual or know them from some previous backstory.
+
+''//Resources//'' represents a character's financial standing, disposable wealth and ability to acquire stuff. Like //Connections// it ranges from $$0d$$ to $$10d$$. It is used when a character wishes to acquire goods or some specific item or service. On a successful //Resources// test, the player making the roll is responsible for narrating where and how they acquired the goods in question.
+
+Together //Resources// and //Connections// help to serve up an interesting narrative, as well as reduce some of the usual burden on the GM and Players regarding these sorts of interactions. The GM no longer has the sole burden of deciding whether every random village has a blacksmith, or describing the smirk on the face of every random barkeep. Likewise the Players don't have to build detailed character histories with a full knowledge of the setting in order to run across an old acquaintance in a remote city.
+
+! Other Prestige Facets
+
+Many settings will have specific organizations, factions or other social systems, which are important to the characters. In this case it is reasonable for the GM to represent this status as a particular prestige facet. This serves as both a way of tracking and rewarding players for advancment in the particular organization as well as a way to develop talents and powers that my require rank in a particular organization.
+
+! Initial Values & Advancment
+
+Prestige facets are inherently narrative, and should be set to reasonable initial values based on the story being told. For //Connections// and //Resources//, a new character generally starts with 6 dice that they may distribute as they like between the two facets. For custom facets, the starting rank should be whatever is narratively appropriate (e.g. If a character is an Admiral in the Royal Navy they should probably start with a relatively high rank in the facet).
+
+Unlike other facets, Prestige facets can, and often do fluctuate both up and down. For //Resources// and //Connections//, players get an extra die to apply to one of these facets every time they earn a //Renown//. The GM can also award one or more dice in these facets for certain narrative activites (e.g. 3 //Resources// for rading a Dragon's treasure horde). 
+
+For custom facets they may advance whenever and however is narratively most appropriate.
 

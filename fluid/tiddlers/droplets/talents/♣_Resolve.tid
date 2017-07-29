@@ -1,6 +1,6 @@
 created: 20160203063015795
 creator: eschlon
-modified: 20170129041730717
+modified: 20170621213420424
 modifier: eschlon
 reqs: 3 Focus
 source: ▽ Aptitude
@@ -8,4 +8,4 @@ tags: Talent Focus
 title: ♣ Resolve
 type: text/vnd.tiddlywiki
 
-You are adept at pushing your body to its absolute limits. You may pay ''1x Focus'' to ignore all taxes on any //Focus// based test.
+You are adept at pushing your body to its absolute limits. You may pay ''1x Focus'' to ignore all accumulated taxes on any //Focus// based test.

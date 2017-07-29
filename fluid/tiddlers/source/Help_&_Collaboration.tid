@@ -1,11 +1,29 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118062629409
 icon: fluid.svg
-modified: 20170124063147434
+modified: 20170621163416271
 tags: Tests
 title: Help & Collaboration
 type: text/vnd.tiddlywiki
 
-Fluid is a collaborative system, and it’s generally expected that people are going to want to help each other do things. When deciding what you wish to do you can always declare your goal to be to give someone else an advantage in some way. This is handled perfectly normally, the GM will assign a difficulty, you roll a test and count your successes.
+Fluid is a collaborative system, and it’s generally expected that people are going to want to help each other do things. When deciding what you wish to do you can always declare your goal to be to give someone else an advantage in some way. This is handled perfectly normally, the GM will assign a difficulty, you roll a test and count your successes. Help comes in three degrees, each offering progressively better bonuses to the reciever, and in all cases the degree of assistance is decided by the narration provided.
 
-Assuming you succeed in your attempt, you may take any //extra// successes that you have lying around and donate them as //dice// to the recipient of your help. Keep in mind that your goal has to be to help the other person and the narration is essential in this case. If you're picking a lock while the rest of the group is fighting off an army of goblins you can't just take your extra successes and hand them over to your warrior.
+* A player provides //''Support''// when their action is useful, but not directly related to the underlying goal (e.g. holding a lantern while someone deciphers an ancient text). If successfull, support provides its //Margin// in //pips// to the main actor.
+* A player provides //''Assistance''// when their action is directly useful to the underlying goal (e.g. talking someone through a surgery). If successful, assistance provides its //Margin// in //dice// to the main actor.
+* A player provides //''Collaboration''// when they are directly testing against the same goal, and they reasonably share the direct consequences of failure. Collaborators all roll against the same test and may individually bid their //Successes// toward the goal.
+
+Most forms of help are either //Support// or //Assistance// as many goals don't make much sense as collaborative activities (e.g. having three people simultaneously try to pick a lock is probably a bad strategy). 
+
+<<<
+Johnas finds himself with the unfortunate need to pick a lock binding Fin to a sacrifical altar. Fin knows full well that he could easily pick the lock himself, if only his hands were free. Lukas, a healer, knows practically nothing useful about the situation but is eager to help. Fin decides to talk Johnas through the process of opening the lock, and the GM deems that to be optimal assistance, though Fin has to roll his Leadership rather than his usual Engineering for the assist at a difficulty of 3. He rolls a 5, contributing 2 dice to Johnas' attempt. Lukas, meanwhile narrates that he holds the lantern steady while Johnas works, a difficulty 1 task, he rolls a 6 contributing 5 pips. Johnas can now makes his attempt with 6 additional pips and 2 additional dice of assitance.
+<<<
+
+In some cases, however, collaboration can make sense (Team sport, combat, moving a heavy object, etc.). Additionally, the narration of the goal can make an otherwise non-collaborative effort collaborative:
+
+<<<
+On their travels Johnas, Fin and Lukas are forced to take a badly maintained mountain pass. They now are forced to either walk along a narrow and slippery ledge overlooking a deep ravine or turn back. They decide to press forward and the GM decides that the difficulty of traversing the ledge is 4. Each individual player may successes to get across. 
+
+While the light-footed Fin seems happy with those odds, the heavily armored Johnas and clumsy Lukas are not so keen. The group decides to bind themselves together with rope. Either they all make it across or no one does. The new difficulty is 12, and the test is now collaborative.
+
+Johnas rolls 4 successes, slowly making his way across. Fin rolls 6, handily navigating the slippery ledge. Lukas only rolls 2, failing his roll and the GM narrates that he loses his footing. Fin, having 2 extra successes donates them to Lukas, narrating that he braces himself against a stone and catches his arm, pulling him across.
+<<< 

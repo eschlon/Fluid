@@ -1,10 +1,11 @@
 created: 20160111220610927
 creator: eschlon
-modified: 20170129045803911
+modified: 20170623161413240
 modifier: eschlon
-reqs: 4 Trade
+reqs: 2 Trade
+source: ▽ Craft
 tags: Talent Trade
 title: ♣ Master Barter
 type: text/vnd.tiddlywiki
 
-You are an expert at getting a great deal and acquring hard to get items at discount prices. You may spend ''1x Trade'' to add your //Trade// as bonus dice to a //Resources// attempt
+You are an expert at getting a great deal and acquring hard to get items at discount prices. You may spend ''1x Trade'' to add your //Trade// as bonus dice to when buying goods or services. If you are using [[▽ Prestige]] you may apply your //Trade// to your //Resources// attempt.

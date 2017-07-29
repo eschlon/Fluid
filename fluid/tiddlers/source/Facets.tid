@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20161228191342101
 icon: fluid.svg
-modified: 20170124071149360
+modified: 20170622195222775
 tags: Primitives
 title: Facets
 type: text/vnd.tiddlywiki
@@ -13,6 +13,7 @@ Generally facets have the following properties:
 * A //''Term''// describing its domain of application
 * A //''Rank''// in dice, describing the entity's ability in that domain
 * An //''Advancment Mechanic''// describing whether the facet can be improved, and the method of doing so
+* Any particular //''Appliation Mechanics''// that describe and/or clarify how the facet is used
 
 As discussed in the section on [[Entities]], important entities in your setting should have a system of facets defined as one or more [[▽ Droplets]] before play begins. The core droplets provide a number of systems for the most common types of entities.
 

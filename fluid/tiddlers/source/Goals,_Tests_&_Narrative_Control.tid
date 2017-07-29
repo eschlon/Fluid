@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118062131831
 icon: fluid.svg
-modified: 20170124063241882
+modified: 20170619171407582
 tags: Tests
 title: Goals, Tests & Narrative Control
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ I'm going to wade into the goblins with my sword and try to draw them away from 
 
 In addition to being more narratively interesting than "//I attack a goblin//" it also provides a significant amount of detail that is necessary to determine how to roll an appropriate test. The next step is to decide if a test is necessary and the guiding principle is again the narrative:
 
-* If failure is //''possible''// and //''interesting''// make a test, otherwise don’t
+* If is //''narratively interesting''// make a test, otherwise don’t
 
 <<<
 Sitting in camp, Fin decides to pull out his lock picks and try to open the dusty old chest that he found in the dungeon. It's not a particularly difficult lock, and he has plenty of time to work, so there's no need to roll dice.
