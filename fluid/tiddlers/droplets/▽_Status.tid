@@ -1,10 +1,10 @@
 created: 20170129013206354
-modified: 20170702053826189
+modified: 20170729224619680
 tags: [[▽ Character]]
 title: ▽ Status
 type: text/vnd.tiddlywiki
 
-Using only [[▽ Aptitude]] and [[▽ Skill]] for building a character produces an interesting and complete system for representing characters. However combats tend to be relatively brutal and short. This is for two main reasons:
+Using only [[▽ Aptitude]] and [[▽ Skill]] for building a character produces an interesting and complete system for representing characters. However conflicts tend to be relatively brutal and short. This is for two main reasons:
 
 * The maximum any character can have in a given facet is 5, meaning that sustained //Conditions// with severity greater than 5 will almost always put a character down.
 * //Conditions// and //Consequences// will generally be levied against the character's skills or aptitudes, making them less effective in subsequent tests, and giving a decided advantage to whoever draws first blood.

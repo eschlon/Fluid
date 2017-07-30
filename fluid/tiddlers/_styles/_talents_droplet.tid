@@ -1,5 +1,5 @@
 created: 20170129040623995
-modified: 20170129041457584
+modified: 20170729235011140
 title: _talents_droplet
 type: text/vnd.tiddlywiki
 
@@ -11,6 +11,13 @@ type: text/vnd.tiddlywiki
     <th>Source</th>
   </tr>
 <$list filter="[tag[Talent]sort[reqs]field:source[$label$]]">
+  <tr>
+    <td><$link>{{!!title}}</$link></td>
+    <td>{{!!reqs}}</td>
+    <td><$link>{{!!source}}</$link></td>
+  </tr>
+</$list>
+<$list filter="[tag[Property]sort[reqs]field:source[$label$]]">
   <tr>
     <td><$link>{{!!title}}</$link></td>
     <td>{{!!reqs}}</td>

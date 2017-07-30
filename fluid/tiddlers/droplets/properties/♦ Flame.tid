@@ -1,9 +1,9 @@
 created: 20160118082604460
 creator: eschlon
 list: 
-modified: 20170623042906297
+modified: 20170729224410751
 modifier: eschlon
-rank: 3, [[Arcane]]
+reqs: $$+3$$, [[Arcane]]
 tags: Enchantments Property
 title: ♦ Flame
 type: text/vnd.tiddlywiki

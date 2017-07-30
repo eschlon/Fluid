@@ -1,6 +1,84 @@
 created: 20170129013222025
-modified: 20170621190446104
+modified: 20170730224008855
 tags: [[▽ Character]]
 title: ▽ Posture
 type: text/vnd.tiddlywiki
 
+Failure happens, and when it does the result is always a negotiation between the winning and losing parties. Of course, the winning party gets to handle the narration of the result; however, the losers are able to leverage any of their abilities or talents to give them some advantage in the negotiation. In the base system, the negotiation options for the losing side are pretty limited: you either have a talent that lets you handle the situation or you end up taking a potentially large involuntary tax to one or more facets.
+
+The ▽ Posture droplet introduces three new derived facets, and a set of addtional talents related to them, that provide some basic resources for dealing with failure negotiations. This provides a means for any character to be able to participate in these negotaions if they're willing to pay the cost, even if they don't have specific talents for the situation. It additionally provides the hook for a kind of rock-paper-scissors confict mechanic that encourages creative use of one's abilities and narration.
+
+Like [[▽ Status]] the new facets are derived from the set of 6 core [[Aptitudes|▽ Aptitude]] and cannot be improved directly. The are sometimes called //Reactive Aspects//, as they are typically used to react to unexpected or problematic situations.
+
+! Resist, Avoid & Notice
+
+//''Resist''// is a measure of a character's passive ability to sustain and cope with physical and mental trauma. It is equal to the average of their [[Vigor]] and [[Focus]] rounded down. //Resist// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. poison, disease, bleeding). It can also be taxed to reduce a margin of failure as discussed in the next section.
+
+//''Avoid''// is a measure of a characer's passive ability to get out of the way of things. It is equal to the average of their [[Agility]] and [[Cunning]] rounded down. //Avoid// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. sneak attacks, avoiding traps, etc.). It can also be taxed to reduce a margin of failure as discussed in the next section.
+
+//''Notice''// is a measure of a character's passive awareness of their environment. It is equal to the average of their [[Perception]] and [[Empathy]] rounded down. //Notice// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. ambushes, noticing traps or secret doors, etc.). It can also be taxed to reduce a margin of failure as discussed in the next section.
+
+! Negotiating Failure
+
+The primary use of these facets is to help negotiate failure situations. Using these facets in this way is simple. If you can narrate how the particular facet you're using is helping you mitigate the result of your failure you may tax that facet to provide a $$+1s$$ per die taxed that can be used to reduce the margin of failure. There are a couple of basic rules to this:
+
+* You can only use the bonus to reduce the margin of failure, you can't ever change a failure into a success or apply the bonus to a success.
+* You can use multiple facets in the same negotiation if you can plausibly narrate how each of them are helping.
+* The bonus is applied to the margin of failure during the negotiation phase of the test, which is before you need to worry about things like //Conditions// and //Consequences//.
+* Taxes to these facets are considered a //Cost// and can be paid with //Stamina// like any other cost.
+
+<<<
+While hired as a bodyguard Johnas finds himself defending his charge from a meanacing thug. He declares his goals: to protect his employer and knock out the thug. The GM sets the difficulty of the second goal to 3 and decides that the difficulty of the first goal is dynamic, as the thug just wants to kill the employer.
+
+The thug rolls 4 successes, and Johnas rolls 5. He has the upper hand, but he'd need 7 successes to achieve both goals. He has to choose which one fails, and decides he's going to bid all 5 dice on knocking the thug out, as he wants him for questioning. 
+
+He fails to protect his employer by a margin of 4 his employer. His employer is not going to be happy (if he survives), so Johnas narrates how he steps in the way of the thug and takes whatever hit is aimed at his employer. He taxes his //Resist// by 3 to reduce his failure margin to 1. He still failed, the thug still gets to narrate what happened, but with only 1 die of margin it's unlikely he'll be able to do any significant damage to his target.
+<<<
+
+! Initial Values & Advancement
+As mentioned above, these facets cannot be improved directly. They can only be increased by improving one or more of the 6 core [[Aptitudes|▽ Aptitude]] from which they dervie their rank, or occasionally via certain talents (c.f. [[▽ Heritage]]).
+
+! Related Talents & Properties
+▽ Posture introduces a set of new talents and properties that leverage or enhance these new facets. 
+
+Like any cost, one can choose to pay the cost of using these facets to reduce the failure margin with //Stamina// at the usual rate. Talents such as [[♣ Overtime]], [[♣ Second Wind]] and [[♣ Intense Study]] apply as usual. Additionally there are three new talents which provide an additional cost reduction when using a particular facet.
+
+{{♣ Resistant||_talent}}
+
+{{♣ Avoidance||_talent}}
+
+{{♣ Observant||_talent}}
+
+This droplet also introduces three new offensive properties that allow attackers to punish opponents for using certain strategies.
+
+{{♦ Unrelenting||_property}}
+
+{{♦ Precise||_property}}
+
+{{♦ Unpredictable||_property}}
+
+Of course, defensive properties are available as well.
+
+{{♦ Sturdy||_property}}
+
+{{♦ Concealing||_property}}
+
+{{♦ Distracting||_property}}
+
+There are also six new talents that provide easier access to these defensive properties for physical and mental situations respectively.
+
+{{♣ Indomitable||_talent}}
+
+{{♣ Footwork||_talent}}
+
+{{♣ Situational Awareness||_talent}}
+
+{{♣ Understatement||_talent}}
+
+{{♣ Wit||_talent}}
+
+{{♣ Antanagoge||_talent}}
+
+A concise list of all talents and properties introduced by this droplet is provided below.
+
+{{||_talents_droplet}}

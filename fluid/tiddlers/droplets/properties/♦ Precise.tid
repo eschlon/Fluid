@@ -1,10 +1,11 @@
 created: 20170703054926536
 creator: eschlon
-modified: 20170707072817418
+modified: 20170729235608059
 modifier: eschlon
 reqs: $$+2$$
+source: ▽ Posture
 tags: [[Offensive Properties]] Property
 title: ♦ Precise
 type: text/vnd.tiddlywiki
 
-This weapon is extraordinarily precise. You may pay ''1x Quality'' to gain $$+1d$$ or ''2x Quality'' to gain $$+1s$$ against any opponent attempting to dodge your strike.
+This weapon is extraordinarily precise. You may pay ''1x Quality'' to gain $$+1d$$ or ''2x Quality'' to gain $$+1s$$ against any opponent attempting to dodge your strike or using //Avoid// to negotiate.

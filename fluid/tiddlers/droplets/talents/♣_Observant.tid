@@ -1,10 +1,11 @@
 created: 20160203062455044
 creator: eschlon
-modified: 20170119091352406
+modified: 20170730215434337
 modifier: eschlon
 reqs: 1 Perception, 1 Empathy
+source: ▽ Posture
 tags: Talent Perception Empathy
 title: ♣ Observant
 type: text/vnd.tiddlywiki
 
-Whenever you take involuntary tax, either as a result of external damage or as a result of failing a test, if you can narrate how your observational ability helps you avoid the tax, you may pay ''1x Notice'' to reduce that tax by an amount equal to your current //Notice//.
+Whenever you use //Stamina// to pay for cost of using //Notice// you may reduce //Stamina// cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Stamina// related talents (i.e. [[♣ Intense Study]], [[♣ Second Wind]], [[♣ Overtime]]), but cannot reduce the cost below 1.

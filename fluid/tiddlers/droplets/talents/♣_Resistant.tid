@@ -1,10 +1,11 @@
 created: 20160203061112252
 creator: eschlon
-modified: 20170119091352415
+modified: 20170730215447401
 modifier: eschlon
 reqs: 1 Vigor, 1 Focus
+source: ▽ Posture
 tags: Vigor Focus Talent
 title: ♣ Resistant
 type: text/vnd.tiddlywiki
 
-Whenever you take involuntary tax, either as a result of external damage or as a result of failing a test, if you can narrate how you are avoiding the tax  you may pay ''1x Resist'' to reduce that tax by an amount equal to your current //Resist//.
+Whenever you use //Stamina// to pay for cost of using //Resist// you may reduce //Stamina// cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Stamina// related talents (i.e. [[♣ Intense Study]], [[♣ Second Wind]], [[♣ Overtime]]), but cannot reduce the cost below 1.
