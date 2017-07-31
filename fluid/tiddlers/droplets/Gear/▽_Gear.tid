@@ -1,5 +1,5 @@
 created: 20170124062334006
-modified: 20170622223012815
+modified: 20170731055513906
 tags: [[▽ Fluid Droplets]]
 title: ▽ Gear
 type: text/vnd.tiddlywiki
@@ -55,5 +55,9 @@ In addition to normal properties, some very powerful equipment can also possess 
 Characters generally acquire new equipment by making a //Resources// test to acquire the item, or by making some kind of crafting test to create it. In either case, the base difficulty of acquiring or bulding an item is equal to its //Quality//, though that may be modified by other factors (i.e. if the item is particularly rare, illegal, requires specialized skills to make). If the desired item has any particular //Properties// associated with it, the rank of those properties are also added to the difficulty. 
 
 For more details on crafting and creating items, see [[▽Craft]].
+
+!! Non-Physical Equipment
+
+While some properties are most appropriate on physical items, Fluid makes no fundamental distinction between a physical conflict and an argument. Non-physical 'equipment' such as evidence, dark secrets and valuable information can also be given appropriate properties at the GMs discretion.
 
 {{||_sections}}

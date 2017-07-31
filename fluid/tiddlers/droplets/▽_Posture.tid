@@ -1,5 +1,5 @@
 created: 20170129013222025
-modified: 20170730224008855
+modified: 20170731055638360
 tags: [[▽ Character]]
 title: ▽ Posture
 type: text/vnd.tiddlywiki
@@ -12,28 +12,11 @@ Like [[▽ Status]] the new facets are derived from the set of 6 core [[Aptitude
 
 ! Resist, Avoid & Notice
 
-//''Resist''// is a measure of a character's passive ability to sustain and cope with physical and mental trauma. It is equal to the average of their [[Vigor]] and [[Focus]] rounded down. //Resist// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. poison, disease, bleeding). It can also be taxed to reduce a margin of failure as discussed in the next section.
+//''Resist''// is a measure of a character's passive ability to sustain and cope with physical and mental trauma. It is equal to the average of their [[Vigor]] and [[Focus]] rounded down. //Resist// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. poison, disease, bleeding). It can also be taxed to reduce a margin of failure by one die per point taxed.
 
-//''Avoid''// is a measure of a characer's passive ability to get out of the way of things. It is equal to the average of their [[Agility]] and [[Cunning]] rounded down. //Avoid// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. sneak attacks, avoiding traps, etc.). It can also be taxed to reduce a margin of failure as discussed in the next section.
+//''Avoid''// is a measure of a characer's passive ability to get out of the way of things. It is equal to the average of their [[Agility]] and [[Cunning]] rounded down. //Avoid// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. sneak attacks, avoiding traps, etc.). It can also be taxed to reduce a margin of failure by one die per point taxed.
 
-//''Notice''// is a measure of a character's passive awareness of their environment. It is equal to the average of their [[Perception]] and [[Empathy]] rounded down. //Notice// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. ambushes, noticing traps or secret doors, etc.). It can also be taxed to reduce a margin of failure as discussed in the next section.
-
-! Negotiating Failure
-
-The primary use of these facets is to help negotiate failure situations. Using these facets in this way is simple. If you can narrate how the particular facet you're using is helping you mitigate the result of your failure you may tax that facet to provide a $$+1s$$ per die taxed that can be used to reduce the margin of failure. There are a couple of basic rules to this:
-
-* You can only use the bonus to reduce the margin of failure, you can't ever change a failure into a success or apply the bonus to a success.
-* You can use multiple facets in the same negotiation if you can plausibly narrate how each of them are helping.
-* The bonus is applied to the margin of failure during the negotiation phase of the test, which is before you need to worry about things like //Conditions// and //Consequences//.
-* Taxes to these facets are considered a //Cost// and can be paid with //Stamina// like any other cost.
-
-<<<
-While hired as a bodyguard Johnas finds himself defending his charge from a meanacing thug. He declares his goals: to protect his employer and knock out the thug. The GM sets the difficulty of the second goal to 3 and decides that the difficulty of the first goal is dynamic, as the thug just wants to kill the employer.
-
-The thug rolls 4 successes, and Johnas rolls 5. He has the upper hand, but he'd need 7 successes to achieve both goals. He has to choose which one fails, and decides he's going to bid all 5 dice on knocking the thug out, as he wants him for questioning. 
-
-He fails to protect his employer by a margin of 4 his employer. His employer is not going to be happy (if he survives), so Johnas narrates how he steps in the way of the thug and takes whatever hit is aimed at his employer. He taxes his //Resist// by 3 to reduce his failure margin to 1. He still failed, the thug still gets to narrate what happened, but with only 1 die of margin it's unlikely he'll be able to do any significant damage to his target.
-<<<
+//''Notice''// is a measure of a character's passive awareness of their environment. It is equal to the average of their [[Perception]] and [[Empathy]] rounded down. //Notice// can be used instead of a //Skill// in unexpected situaitons where no skills apply (e.g. ambushes, noticing traps or secret doors, etc.). It can also be taxed to reduce a margin of failure by one die per point taxed.
 
 ! Initial Values & Advancement
 As mentioned above, these facets cannot be improved directly. They can only be increased by improving one or more of the 6 core [[Aptitudes|▽ Aptitude]] from which they dervie their rank, or occasionally via certain talents (c.f. [[▽ Heritage]]).
@@ -65,13 +48,15 @@ Of course, defensive properties are available as well.
 
 {{♦ Distracting||_property}}
 
-There are also six new talents that provide easier access to these defensive properties for physical and mental situations respectively.
+There are also six new talents that provide easier access to these defensive properties. Three of these are for physical conflicts.
 
 {{♣ Indomitable||_talent}}
 
 {{♣ Footwork||_talent}}
 
 {{♣ Situational Awareness||_talent}}
+
+The remaining three are for social conflicts.
 
 {{♣ Understatement||_talent}}
 
