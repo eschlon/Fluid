@@ -1,6 +1,6 @@
 created: 20160112003458676
 creator: eschlon
-modified: 20170702053402444
+modified: 20180528080129210
 modifier: eschlon
 reqs: 5 Labor
 source: ▽ Status
@@ -8,4 +8,4 @@ tags: Talent Labor
 title: ♣ Overtime
 type: text/vnd.tiddlywiki
 
-You've trained yourself to perform at your peak right up to the point of total exhaustion. Whenever you use Stamina to pay for cost of talents you may reduce Stamina cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Stamina// related talents (i.e. [[♣ Second Wind]], [[♣ Intense Study]]), but cannot reduce the cost below 1.
+You've trained yourself to perform at your peak right up to the point of total exhaustion. Whenever you use //Endurance// to pay for cost of talents you may reduce the //Endurance// cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Endurance// related talents (i.e. [[♣ Second Wind]], [[♣ Intense Study]]), but cannot reduce the cost below 1.

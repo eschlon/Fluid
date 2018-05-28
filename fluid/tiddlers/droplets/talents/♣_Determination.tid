@@ -1,6 +1,6 @@
 created: 20160203065954797
 creator: eschlon
-modified: 20170129041724599
+modified: 20180525002032212
 modifier: eschlon
 reqs: 5 Focus
 source: ▽ Aptitude
@@ -8,4 +8,4 @@ tags: Talent Focus
 title: ♣ Determination
 type: text/vnd.tiddlywiki
 
-Your legendary //Focus// allows you to continue to function even in the most dire of circumstances. You may narrate your epic feat of determination and pay ''2x Focus''  ignore all accumulated //Aptitude// and //Skill// taxes for the remainder of the scene.
+Your legendary //Focus// allows you to continue to function even in the most dire of circumstances. You may narrate your epic feat of determination and pay ''3x Focus''. For the remainder of the scene you may pay any taxes out of //Endurance// at a 1:1 ratio and treat all //Aptitudes// and //Skills// as if they were untaxed for the purposes of determining die pools or talent effects.

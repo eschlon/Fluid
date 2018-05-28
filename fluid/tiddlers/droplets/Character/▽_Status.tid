@@ -1,5 +1,5 @@
 created: 20170129013206354
-modified: 20170729224619680
+modified: 20180528084457031
 tags: [[▽ Character]]
 title: ▽ Status
 type: text/vnd.tiddlywiki
@@ -8,16 +8,21 @@ Using only [[▽ Aptitude]] and [[▽ Skill]] for building a character produces 
 
 * The maximum any character can have in a given facet is 5, meaning that sustained //Conditions// with severity greater than 5 will almost always put a character down.
 * //Conditions// and //Consequences// will generally be levied against the character's skills or aptitudes, making them less effective in subsequent tests, and giving a decided advantage to whoever draws first blood.
+* While //Talents// are very powerful they typically incurr a //Cost// that will typically tax an important facet.
 
-▽ Status introduces two new derived facets, and a few additional talents, that help to mitigate against these and give players more options about how to deal with involuntary tax. They cannot be improved directly, and are instead derived from some set of the 6 core [[Aptitudes|▽ Aptitude]]. These are sometimes also called //Passive Aspects//, as they are typically not rolled directly, though they can be in some cases (e.g. disease, madness, etc.)
+▽ Status introduces three new derived facets, and a few additional talents, that help to mitigate against these and give players more options about how to deal with voluntary and involuntary tax. They cannot be improved directly, and are instead derived from some set of the 6 core [[Aptitudes|▽ Aptitude]]. These are sometimes also called //Passive Aspects//, as they are typically not rolled directly, though they can be in some cases (e.g. disease, madness, etc.)
 
-! Health, Composure & Stamina
+! Health, Composure & Endurance
 
 //''Health''// is a character's overall hardiness and physical well-being. It is equal to the sum of their [[Vigor]], [[Agility]] and [[Perception]]. //Health// can be used to absorb //Conditions// and //Consequences// resulting from a failed test which involve these aptitudes, or of a physical nature.
 
 //''Composure''// is a character's overall calmness, mental stability and mental well-being. It is equal to the sum of their [[Focus]], [[Cunning]] and [[Empathy]]. //Composure// can be used to absorb //Conditions// and //Consequences// resulting from a failed test which involve these aptitudes, or of a non-physical nature.
 
-//''Stamina''// is a resource that measures how close your character is to exhaustion. It is equal to the sum of all six of the character's aptitudes. //Stamina// is used to absorb //Costs//, though it does so by default at a very poor exchange rate of ''5x Stamina'' per ''1x Cost''. Various talents can make this exchange more favorable, but even at this rate it is useful for triggering critical talents where either the cost cannot be paid or doing so would reduce a crucial facet.
+//''Endurance''// is a resource that measures how close your character is to exhaustion. It is equal to the sum of all six of the character's aptitudes.
+//Endurance// has two functions. 
+
+* //Endurance// is used to recover tax to critical facets rapidly. Whenever you rest you may exchange tax to any facet with tax to //Endurance//. While this doesn't reduce your overall tax, as you're just moving tax around, it does allow you to recover critical facets between conflicts. To actually reduce your overall tax you still need a good rest (c.f. [[Recovering Tax]]).
+* //Endurance// can be used to absorb //Costs// directly, though it does so by default at a very poor exchange rate of ''5x Endurance'' per ''1x Cost''. Various talents can make this exchange more favorable, but even at this rate it is useful for triggering critical talents where either the cost cannot be paid or doing so would reduce a crucial facet.
 
 ! Intitial Values & Advancement
 

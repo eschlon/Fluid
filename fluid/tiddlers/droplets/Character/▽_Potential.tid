@@ -1,0 +1,79 @@
+created: 20180528082723810
+modified: 20180528095908024
+tags: [[▽ Character]]
+title: ▽ Potential
+type: text/vnd.tiddlywiki
+
+In general, [[▽ Aptitude]] and the various skill droplets provide sufficient depth for a wide variety of character types. However, specialization is somewhat shallow for a variety of reasons:
+
+* Skills are relatively cheap to advance
+* Talents allow great customization but are limited due to their high cost
+* While [[▽ Status]] helps in reducing these costs, it does so equally for everything
+
+At low level play this is good, as it means new characters can quickly get to the point where they are effective in the things they specialize in, but it can make it difficult for a player to distinguish themselves as a legendary swordsman, or archmage at the higher tiers.
+
+Potential introudeces a new facet called //Potential// which advances slowly and provides a hook for high level talents and powers. Additionally, it introduces a new derived facet called //Stamina// that provides additional resource for specialized individuals to get more use out of their array of special //Talents//.
+
+! Potential & Stamina
+
+//''Potential''// represents a character's raw power level in the domains in which they excel. //Potential// serves as a requirement for a special set of //Talents// called //Powers//. //Potential// also determines how many //Traits// a character is permitted to have at once. //Potential// advances at the same rate as an //Aptitude// but ranges from 1 to 10.
+
+//''Stamina''// represents a character's pool of inner resolve and ability to tap their innate heroic potential. It is used in much the same way as //Endurance// to absorb the //Costs//. Like //Endurance// it exchanges by default at an exchange rate of ''5x Stamina'' per ''1x Cost''. //Stamina// is a derived facet and cannot be advanced directly. It is equal to the character's //Potential// multiplied by their highest //Aptitude//.
+
+! Traits, Masteries & Stamina
+
+Unlike //Endurance// which benefits from several talents that can bring the exchange rate down, //Stamina// only benefits from one thing: [[Advantage|Bonuses & Penalties]]:
+
+* A character with //Advantage// may pay any //Cost// at a rate of ''3x Stamina'' per ''1x Cost''
+* A character without //Advantage// may pay any //Cost// at a rate of ''5x Stamina'' per ''1x Cost''
+* A character with //Disadvantage// may not use //Stamina// to cover any //Cost//
+
+> Johnas has the //Brave// trait and a mastery in //Sprinting//. When fighting a dragon he decides to use one of his talents and wishes to pay the cost with //Stamina//. If he decides to use a talent to taunt the dragon he can claim //Advantage// from //Brave// and spend //Stamina// at a good 3:1 ratio. If he decides to use a talent to run away his //Brave// trait will get in the way of his //Sprinting// mastery and he'll have to pay at the usual 5:1 ratio. If he uses a talent to hide under a rock, he'll be //Disadvantaged// and will have to pay the cost in another way.
+
+To restate the rules for //Advantage//, a character is considered to have //Advantage// whenever:
+
+* They have a //Trait// or //Mastery// that supports the goal they are attempting.
+* They have no //Traits// that oppose the goal that they are attempting.
+
+Likewise a character has //Disadvantage// whenever:
+
+* They have one or more //Traits// that oppose the goal that they are attempting.
+* They have no //Traits// or //Masteries// that support the goal that they are attempting.
+
+! Powers, Domains & Stamina
+
+//Powers// are just a special type of //Talent// that include //Potential// as one of their requirements. In general, //Powers// have a cost equal to their //Potential// requirement. As an example:
+
+{{★ Fireball||_power}}
+
+The cost of //Fireball// is thus ''3x Potential'', which would translate to either ''9x Stamina'' or ''15x Stamina'' depending on whether the character has //Advantage//.
+
+//Powers// can get very costly, and have two additional mechanics that can be used to further improve the //Stamina// ratio.
+
+* Most powers also include a set of relevant domains.  In this case the domains listed are //Fire// and //Destruction//. A character with at least one of these domains as either a //Mastery// or //Trait// can reduce the ratio one point (e.g. 4:1 without //Advantage// or 2:1 with).
+* Powers are not always paid for as //Talents//. Some of the esoteric arts, for example, may grant //Powers// as spells in a spell book or items on a charm bracelet or the like. Regardless, any known //Power// can always be acquired as a full //Talent// costing the normal 10xp. Doing so lowers the //Stamina// ratio to 1:1 (regardless of //Advantage//).
+
+Regardles of any effects in play however:
+
+* The //Stamina// ratio can never drop below 1:1
+* You can never use //Stamina// to pay any cost while under //Disadvantage//
+
+|float-right|k
+|! Potential Rank|! Dice |! Cost to Obtain |! Total Cost |
+| Fair | 1d | 1xp | 1xp |
+| Average | 2d | 4xp | 5xp |
+| Good  | 3d | 9xp | 14xp |
+| Excellent | 4d | 16xp | 30xp |
+| Epic | 5d | 25xp | 55xp |
+| Incredible | 6d | 36xp | 101xp |
+| Prodigious | 7d | 49xp | 140xp |
+| Marvelous | 8d | 64xp | 214xp |
+| Mythical | 9d | 81xp | 295xp |
+| Legendary | 10d | 100xp | 395xp |
+
+! Intitial Values & Advancement
+//Potential// starts with a value of 1 and can then be advanced similarly to //Aptitudes//, by paying the square of the new value. This makes it relatively cheap to advance for the first few tiers, however further advancment rapidly becomes extremely expensive, distinguishing characters with access to higher tier //Powers// from more generalist characters. Costs for each rank and total costs are given in the table. 
+
+//Stamina// is computed as //Potential// times the character's highest //Aptitutde// giving a general range from 3 to 50.
+
+{{||_talents_droplet}}

@@ -1,27 +1,28 @@
 color: #00c
 created: 20170129020744784
-list: [[▽ Aptitude]] [[▽ Skill]] [[▽ Status]] [[▽ Posture]] [[▽ Prestige]]
-modified: 20170622220133653
+list: [[▽ Aptitude]] [[▽ Skill]] [[▽ Status]] [[▽ Potential]] [[▽ Posture]] [[▽ Prestige]]
+modified: 20180528100148991
 tags: [[▽ Fluid Droplets]]
 title: ▽ Character
 type: text/vnd.tiddlywiki
 
-This droplet defines a [[facet system|Facets]] for player characters. It is composed of a variety of sub-components which can be used or modified independently. Generally these subcomponents fall broadly into three categories: //Core Aptititude// and //Skills & Talents//. A complete view of character facets, along with the droplet that provides them is given in the table to the right.
+This droplet defines a [[facet system|Facets]] for player characters. It is composed of a variety of sub-components which can be used or modified independently. Generally these subcomponents fall broadly into three categories: //Core Aptititude// and //Skills & Talents//. A complete view of character facets, along with a link to the droplet that provides them is given in the table to the right.
 
 |float-right|k
-||![[▽ Aptitude]]<br>Active Facets|<|![[▽ Posture]]<br>Reactive Facets|
+||!Active Facets|<|!Reactive Facets|
 |~|! //Physical Facets//|! //Mental Facets//|~|
 |! //Power Facets//| [[Vigor]] | [[Focus]] |μ [[Resist|▽ Posture]]|
 |! //Grace Facets//| [[Agility]] | [[Cunning]]  |μ [[Avoid|▽ Posture]]|
 |! //Awareness Facets//| [[Perception]] | [[Empathy]] |μ [[Notice|▽ Posture]]|
-|! [[▽ Status]]<br>Passive Facets| ∑ [[Health|▽ Status]] | ∑ [[Composure|▽ Status]] ||
-|~| ∑ [[Stamina|▽ Status]] |<|~|
-|! [[▽ Prestige]]<br>Prestige Facets|<|<|<|
+|!Passive Facets| ∑ [[Health|▽ Status]] | ∑ [[Composure|▽ Status]] ||
+|~| ∑ [[Endurance|▽ Status]] |<|~|
+|! Potential|<|<|<|
+|>| [[Potential |▽ Potential]] |<|<|
+|>| [[Stamina |▽ Potential]] |<|<|
+|!Prestige Facets|<|<|<|
 |>| [[Resources|▽ Prestige]] | [[Connections|▽ Prestige]] |<|
-|! [[▽ Magic]]<br>Esoteric Facets|<|<|<|
-| [[Arcane]] | [[Spirit]] | [[Psychic]] | [[Eldritch]] |
 |! Skills|<|<|<|
-|! [[▽ Skill]]<br>Mundane Skills| [[Acrobatics]] |<|<|
+|! Mundane Skills| [[Acrobatics]] |<|<|
 |~| [[Athletics]] |<|<|
 |~| [[Crime]] |<|<|
 |~| [[Exploration]] |<|<|
@@ -35,12 +36,12 @@ This droplet defines a [[facet system|Facets]] for player characters. It is comp
 |~| [[Stealth]] |<|<|
 |~| [[Survival]] |<|<|
 |~| [[Taming]] |<|<|
-|! [[▽ Craft]]<br>Vocational Skills| [[Artistry]] |<|<|
+|! Vocational Skills| [[Artistry]] |<|<|
 |~| [[Crafting]] |<|<|
 |~| [[Engineering]] |<|<|
 |~| [[Labor]] |<|<|
 |~| [[Trade]] |<|<|
-|! [[▽ Fight]]<br>Combat Skills| [[Armor]] |<|<|
+|! Combat Skills| [[Armor]] |<|<|
 |~| [[Marksmanship]] |<|<|
 |~| [[Melee]] |<|<|
 |~| [[Throwing]] |<|<|
@@ -51,12 +52,12 @@ This droplet defines a [[facet system|Facets]] for player characters. It is comp
 
 
 
-
 ! Core Aptitudes
 These droplets define or modify the core attributes of a character. They are intended to be used in conjunction with one or more of the skill droplets. The main droplet is defined in [[▽ Aptitude]], which introduces a set of six facets which describe the general ability of a character.
 
-* [[▽ Status]] enhances [[▽ Aptitude]] by adding a set of three derived facets which offer player characters more options managing consequences and conditions.
+* [[▽ Status]] enhances [[▽ Aptitude]] by adding a set of three derived facets which offer player characters more options managing consequences, conditions and costs.
 * [[▽ Posture]] ehances [[▽ Aptitude]] by adding a set of three derived facets which offer more nuanced strategy in direct conflicts.
+* [[▽ Potential]] provides a pair of facets which offer options in managing costs and allow deeper specialization and heroic advancment.
 * [[▽ Prestige]] provides a set of independent facets for describing a character's overall renown and place in the world.
 
 ! Skills & Talents
@@ -64,7 +65,7 @@ The skill droplets describe systems for describing a character's ability at spec
 
 * [[▽ Fight]] adds a set of skills and talents for handling combat capabilities in a more nuanced way.
 * [[▽ Craft]] adds a set of skills and talents for handling crafting and trade in a more nuanced way.
-* [[▽ Magic]] introduces a system and a set of talents for handling the esoteric arts.
+* [[▽ Magic]] introduces a talents for handling the esoteric arts.
 * [[▽ Heritage]] introduces a talent system for handling character races, lineages and heritage.
 
 These components introduce new [[Facets]], provide detail about the mechanics for using and advancing those facets and a host of new [[Talents|Talents & Masteries]] that enhance, and build off of the source system. Crucially, none of these systems introduce new primitives or sweeping new mechanics, they all can be seen as concrete refinements of [[Fluid Source]].

@@ -1,5 +1,5 @@
 created: 20170129013222025
-modified: 20170731055638360
+modified: 20180528082537164
 tags: [[▽ Character]]
 title: ▽ Posture
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ Failure happens, and when it does the result is always a negotiation between the
 
 The ▽ Posture droplet introduces three new derived facets, and a set of addtional talents related to them, that provide some basic resources for dealing with failure negotiations. This provides a means for any character to be able to participate in these negotaions if they're willing to pay the cost, even if they don't have specific talents for the situation. It additionally provides the hook for a kind of rock-paper-scissors confict mechanic that encourages creative use of one's abilities and narration.
 
-Like [[▽ Status]] the new facets are derived from the set of 6 core [[Aptitudes|▽ Aptitude]] and cannot be improved directly. The are sometimes called //Reactive Aspects//, as they are typically used to react to unexpected or problematic situations.
+Like [[▽ Status]] the new facets are derived from the set of 6 core [[Aptitudes|▽ Aptitude]] and cannot be improved directly. They are sometimes called //Reactive Aspects//, as they are typically used to react to unexpected or problematic situations.
 
 ! Resist, Avoid & Notice
 
@@ -24,7 +24,7 @@ As mentioned above, these facets cannot be improved directly. They can only be i
 ! Related Talents & Properties
 ▽ Posture introduces a set of new talents and properties that leverage or enhance these new facets. 
 
-Like any cost, one can choose to pay the cost of using these facets to reduce the failure margin with //Stamina// at the usual rate. Talents such as [[♣ Overtime]], [[♣ Second Wind]] and [[♣ Intense Study]] apply as usual. Additionally there are three new talents which provide an additional cost reduction when using a particular facet.
+Like any cost, one can choose to pay the cost of using these facets to reduce the failure margin with //Endurance// at the usual rate. Talents such as [[♣ Overtime]], [[♣ Second Wind]] and [[♣ Intense Study]] apply as usual. Additionally there are three new talents which provide an additional cost reduction when using a particular facet.
 
 {{♣ Resistant||_talent}}
 
@@ -32,38 +32,25 @@ Like any cost, one can choose to pay the cost of using these facets to reduce th
 
 {{♣ Observant||_talent}}
 
-This droplet also introduces three new offensive properties that allow attackers to punish opponents for using certain strategies.
-
-{{♦ Unrelenting||_property}}
-
-{{♦ Precise||_property}}
-
-{{♦ Unpredictable||_property}}
-
-Of course, defensive properties are available as well.
+Additionally this droplet introduces several new defensive properties that can be used to enahnce these facets:
 
 {{♦ Sturdy||_property}}
-
 {{♦ Concealing||_property}}
-
 {{♦ Distracting||_property}}
 
-There are also six new talents that provide easier access to these defensive properties. Three of these are for physical conflicts.
+As well as three new offensive properties, designed for counteracting them:
+
+{{♦ Unrelenting||_property}}
+{{♦ Precise||_property}}
+{{♦ Unpredictable||_property}}
+
+And finally, six new talents to make it easier for characters to benefit from these properties:
 
 {{♣ Indomitable||_talent}}
-
 {{♣ Footwork||_talent}}
-
 {{♣ Situational Awareness||_talent}}
-
-The remaining three are for social conflicts.
-
 {{♣ Understatement||_talent}}
-
 {{♣ Wit||_talent}}
-
 {{♣ Antanagoge||_talent}}
-
-A concise list of all talents and properties introduced by this droplet is provided below.
 
 {{||_talents_droplet}}

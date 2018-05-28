@@ -1,6 +1,6 @@
 created: 20160203070713504
 creator: eschlon
-modified: 20170129041703952
+modified: 20180525000940030
 modifier: eschlon
 reqs: 5 Perception
 source: ▽ Aptitude
@@ -8,4 +8,4 @@ tags: Talent Perception
 title: ♣ Omniscience
 type: text/vnd.tiddlywiki
 
-Your legendary //Perception// has granted you powers of observation that are bordering on the supernatural. You may pay ''2x Perception'' to lower your threshold by $$1t$$ for the remainder of the scene.
+Your legendary //Perception// has granted you powers of observation that are bordering on the supernatural. You may pay ''3x Perception'' to lower your threshold by $$2t$$ for the remainder of the scene.

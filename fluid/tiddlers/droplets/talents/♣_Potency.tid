@@ -1,6 +1,6 @@
 created: 20160203063735424
 creator: eschlon
-modified: 20170129041628113
+modified: 20180528080016887
 modifier: eschlon
 reqs: 5 Vigor
 source: ▽ Aptitude
@@ -8,4 +8,4 @@ tags: Vigor Talent
 title: ♣ Potency
 type: text/vnd.tiddlywiki
 
-Your legendary //Vigor// allows you to perform epic feats of physical strength and power. On any test involving physical strength you may narrate your epic feat. Pay ''2x Vigor'' to automatically succeed in the attempt with a margin of success equal to your //Vigor//.
+Your legendary //Vigor// allows you to perform epic feats of physical strength and power. On any test involving physical strength you may narrate your epic feat and pay ''3x Vigor'' to automatically succeed with a margin equal to your //Vigor//.

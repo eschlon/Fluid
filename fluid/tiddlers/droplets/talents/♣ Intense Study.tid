@@ -1,6 +1,6 @@
 created: 20160112004406721
 creator: eschlon
-modified: 20170702053424735
+modified: 20180528080201494
 modifier: eschlon
 reqs: 3 Scholarship
 source: ▽ Status
@@ -8,4 +8,4 @@ tags: Talent Scholarship
 title: ♣ Intense Study
 type: text/vnd.tiddlywiki
 
-Your countless hours of intense study and mental exertion allow you to continue to function with a clear mind long after others would have collapsed. Whenever you use Stamina to pay for cost of talents involved in mental actions you may reduce Stamina cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Stamina// related talents (i.e. [[♣ Second Wind]], [[♣ Overtime]]), but cannot reduce the cost below 1.
+Your countless hours of intense study and mental exertion allow you to continue to function with a clear mind long after others would have collapsed. Whenever you use //Endurance// to pay for cost of talents involved in mental actions you may reduce //Endurance// cost by one (e.g. 4:1 instead of 5:1). This stacks with other //Endurance// related talents (i.e. [[♣ Second Wind]], [[♣ Overtime]]), but cannot reduce the cost below 1.
